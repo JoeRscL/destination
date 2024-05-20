@@ -1,76 +1,91 @@
 [
   {
     id: 1,
+    img: "/Foods/Arsik.jpg",
     name: "Arsik",
     desc: "Potongan ikan atau daging dimasak dengan saus pedas yang kaya akan santan, kunyit, dan rempah-rempah aromatik.",
   },
   {
     id: 2,
+    img: "/Foods/Bika.jpg",
     name: "Bika Ambon",
     desc: "kue spons yang berasal dari Sumatra Utara. Teksturnya unik, kombinasi yang lembut dan kenyal, dengan rasa manis yang menyatu di mulut",
   },
   {
     id: 3,
+    img: "/Foods/Dali.jpg",
     name: "Dali",
     desc: "hidangan tradisional yang terbuat dari kacang lentil, dimasak hingga lembut dan disajikan dengan bumbu rempah. Menu ini kaya gizi dan memuaskan.",
   },
   {
     id: 4,
+    img: "/Foods/Dendeng.jpg",
     name: "Dendeng",
     desc: "Slices tipis daging sapi atau kerbau, marinasi dengan campuran rempah, kemudian dikeringkan atau digoreng hingga sempurna.",
   },
   {
     id: 5,
+    img: "/Foods/Gomak.jpg",
     name: "Mi Gomak",
     desc: "hidangan mi yang lezat dengan potongan daging yang lembut, biasanya ayam atau sapi, disajikan dengan kuah kaya rempah. Menu ini dihiasi dengan berbagai topping, menambahkan lapisan tekstur dan rasa.",
   },
   {
     id: 6,
+    img: "/Foods/Lemang.png",
     name: "Lemang",
     desc: "Beras ketan dicampur dengan santan, dimasukkan ke dalam tabung bambu, dan dimasak perlahan di atas api hingga beras menyerap aroma asap dan mengembangkan lapisan yang lengket.",
   },
   {
     id: 7,
+    img: "/Foods/BPK.jpg",
     name: "Babi Panggang Karo",
     desc: "Hidangan daging babi khas suku Karo yang dipanggang dengan bumbu spesial.",
   },
   {
     id: 8,
+    img: "/Foods/saksang.jpeg",
     name: "Saksang",
     desc: "Masakan daging babi atau anjing yang dimasak dengan darah dan rempah-rempah Batak.",
   },
   {
     id: 9,
+    img: "/Foods/Naniura.jpg",
     name: "Dekke Naniura",
     desc: "Ikan mas yang diasinkan dan dimasak tanpa api, menggunakan air jeruk nipis dan bumbu.",
   },
   {
-    id: 10,
+    id: 10
+    img: "/Foods/kue.png",
     name: "Kue Ombus-Ombus",
     desc: "Kue tradisional Batak yang terbuat dari tepung beras dan gula merah, dibungkus dengan daun pisang dan dikukus.",
   },
   {
-    id: 11,
+    id: 11
+    img: "/Foods/ubi.jpeg",
     name: "Gulai Daun Ubi Tumbuk",
     desc: "Gulai daun singkong yang ditumbuk dengan bumbu dan santan.",
   },
   {
-    id: 12,
+    id: 12
+    img: "/Foods/Tinutuan.jpeg",
     name: "Tinutuan",
     desc: "Hidangan ini terbuat dari campuran beras yang dimasak bersama berbagai macam sayuran seperti labu kuning, jagung manis, daun bayam, kangkung, daun kemangi, dan daun gedi.",
   },
   {
-    id: 13,
+    id: 13
+    img: "/Foods/ayam.jpg",
     name: "Ayam Pinadar",
     desc: "Ayam bakar dengan bumbu kelapa parut dan andaliman khas Batak. Ayam bakar dengan bumbu kelapa parut dan andaliman khas Batak.",
   },
   {
-    id: 14,
+    id: 14
+    img: "/Foods/gulai.jpg",
     name: "Gulai Itiak",
     desc: "Hidangan gulai bebek dengan kuah santan yang kaya rempah, sering disajikan dengan nasi putih.",
   },
   {
-    id: 15,
+    id: 15
+    img: "/Foods/tangkap.jpg",
     name: "Ayam Tangkap",
     desc: "Hidangan ayam goreng yang disajikan dengan daun kari dan rempah-rempah, memberikan rasa yang unik dan aromatik.",
   },
